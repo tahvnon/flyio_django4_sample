@@ -1,0 +1,11 @@
+*.swp
+*.swo
+*.pyc
+venv/
+venv/*
+__pycache__/
+__pycache__/*
+
+custom_settings.py
+run_local.sh
+db.sqlite3
